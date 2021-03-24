@@ -10,4 +10,4 @@ wget https://raw.githubusercontent.com/Antonilson-b/SSHPLUS/master/senharoot.sh 
 
 # TCP-Tweaker-1.0 (TCP-SPEED)
 
-apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/Antonilson-b/SSHPLUS/master/Install/tcptweaker.shh; chmod +x tcptweaker.sh; ./tcptweaker.sh
+apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/Antonilson-b/SSHPLUS/master/Install/tcptweaker.sh; chmod +x tcptweaker.sh; ./tcptweaker.sh
