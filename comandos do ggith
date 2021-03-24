@@ -26,3 +26,12 @@ git remote add origin https://github.com/Antonilson-b/SSHPLUS.git
 git branch -M main
 
 git push -u origin main
+
+
+
+
+If you have a local clone, you can update it by running:
+
+git branch -m main master
+git fetch origin
+git branch -u origin/master master
